@@ -86,17 +86,11 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+/*Grouped the 3 classes below as the properties are all the same*/
+.benefit-lead, 
+.benefit-brand,
+.benefit-cost
+{
     margin-bottom: 32px;
     color: #ffffff;
 }
