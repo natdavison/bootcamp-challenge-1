@@ -9,7 +9,9 @@ While working on this project, I learned a lot about semantic HTML and how impor
 N/A
 
 ## Usage
-This project can be accessed via 
+This project can be accessed via https://natdavison.github.io/bootcamp-challenge-1/ 
+
+![live-screenshot](https://user-images.githubusercontent.com/115367228/197388945-99172f53-c521-496e-93f4-ae1a65f199b4.png)
 
 ## Credits
 N/A
