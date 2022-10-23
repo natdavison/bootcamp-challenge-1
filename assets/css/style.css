@@ -114,6 +114,7 @@ p {
     max-width: 150px;
 }
 
+/*Grouped the 3 classes below as the properties are all the same*/
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing
@@ -126,15 +127,11 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
+/*Grouped the 3 classes below as the properties are all the same*/
+.search-engine-optimization img,
+.online-reputation-management img,
+.social-media-marketing img 
+{
     max-height: 200px;
 }
 
